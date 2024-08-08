@@ -1,0 +1,72 @@
+[
+    {
+        "rank": 1,
+        "country": "United States",
+        "flag": "US",
+        "salawatPledged": 486800,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 2,
+        "country": "Brunei",
+        "flag": "BN",
+        "salawatPledged": 400000,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 3,
+        "country": "United Kingdom",
+        "flag": "GB",
+        "salawatPledged": 130300,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 4,
+        "country": "India",
+        "flag": "IN",
+        "salawatPledged": 112000,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 5,
+        "country": "Canada",
+        "flag": "CA",
+        "salawatPledged": 26900,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 6,
+        "country": "Malaysia",
+        "flag": "MY",
+        "salawatPledged": 11500,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 7,
+        "country": "Philippines",
+        "flag": "PH",
+        "salawatPledged": 11500,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 8,
+        "country": "Saudi Arabia",
+        "flag": "SA",
+        "salawatPledged": 10000,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 9,
+        "country": "Australia",
+        "flag": "AU",
+        "salawatPledged": 9300,
+        "todaysPledges": "-"
+    },
+    {
+        "rank": 10,
+        "country": "Turkey",
+        "flag": "TR",
+        "salawatPledged": 5600,
+        "todaysPledges": "-"
+    }
+]
